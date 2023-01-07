@@ -318,5 +318,6 @@ body{
     }
     .search-bar{
         width: 100px;
+        margin-left:14px;
     }
 }
